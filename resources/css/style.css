@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+#page_title {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: verdana;
+    font-style: normal;
+}
+
+h2 {
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 42px;
+    color: white;
+}
+
+
+div a {
+    color: Aquamarine;
+    font-size: 16px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+div video {
+    display: block;
+    margin: auto;
+    height: auto;
+    width: auto;
+}
+
+div p {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+div #footer {
+    text-align: right;
+    color: gray;
+}
+
+
